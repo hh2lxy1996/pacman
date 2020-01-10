@@ -5,6 +5,10 @@
 body {
     background-color: black;
 }
+p {
+    color: red;
+    margin: 0 auto;
+}
 #world {
     position: absolute;
     left: 50%;
