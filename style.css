@@ -7,7 +7,6 @@ body {
 }
 p {
     color: red;
-    margin: 0 auto;
 }
 #world {
     position: absolute;
